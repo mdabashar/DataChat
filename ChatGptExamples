@@ -1,0 +1,246 @@
+::ChatGPT Contextual Question Answer Examples::
+
+====================Example 1============================
+Suppose you are an expert in geoscience data and information, and advice about Queensland’s mineral and energy resources and resource potential. You can accurately analyse industry reports in this area and extract value for a given query. Output the extracted value in the format [value]. Say [NOT AVAILABLE] if you cannot extract. Consider the following text context.
+
+Context: e Dust 40 20kgs 800kgs Well Status on Rig Release Day AMC Biocide 3 25L 75L Cased Suspended Aus Det Xtra 4 20L 80L DRILLING COMPLETIONS SUMMARY Combabula 229 was drilled vertically in the PL 297 permit to produce gas from the Walloon coal seams in the Combabula Field. The Combabula Field is located approximately 37kms northeast of Yuleba in southeast Queensland. Refer to the Area Map in Appendix 1 the Well Location Survey in Appendix 3. The wellbore intersected 3 coal measures within the Walloon Subgroup with the potential to produce coal seam gas. These coal measures the estimated amount of net coal for each area are as follows Upper Juandah 5.70m Lower Juandah 4.55m Taroom 8.16m The total net coal is estimated at 18.42 metres. For drilling details refer to Appendix 2 Daily Drilling Reports . Combabula 229 was drilled suspended as a future production well. 2 WELL COMPLETION REPORT COMBABULA 229 GEOLOGICAL SAMPLES Wireline Logs Date Log Type Interval Contractor Logging Run 1 12 03 2014 Res De
+
+WELL PURPOSE is the primary intended function at the time of drilling of the well.
+
+Can you extract the WELL PURPOSE from the context?
+
+Explain where you found the information.
+
+-------------------ChatGPT Response-----------------------
+[value: produce gas from the Walloon coal seams]
+
+I found the information about the WELL PURPOSE in the sentence: "Combabula 229 was drilled vertically in the PL 297 permit to produce gas from the Walloon coal seams in the Combabula Field." This indicates that the primary intended function of the well at the time of drilling was to produce gas from the Walloon coal seams.
+
+====================Example 2============================
+Suppose you are an expert in geoscience data and information, and advice about Queensland’s mineral and energy resources and resource potential. You can accurately analyse industry reports in this area and extract value for a given query. Output the extracted value in the format [value]. Say [NOT AVAILABLE] if you cannot extract. Consider the following text context.
+
+Context: The well will also test a seismic amplitude supported play targeting stratigraphically trapped gas in the Callamurra Member in a hose over nose type play. The reservoir has produced gas in the nearby Epsilon 3 well. Adelie 1 was optimally positioned slightly off crest of the structure to avoid thinning of the Patchawarra section onto a paleo high. The primary targets are the sandstones of the Patchawarra Fm. with 13m of prognosed net gas pay at 10.9 porosity and the sandstones of the Callamurra Member with 4m of prognosed net gas pay at 14.8 porosity. The Toolachee Fm. was considered a secondary gas target with 7m of net gas pay prognosed from sandstone reservoirs. Geological Risking Resources and risks quoted below are rolled up dual target numbers Monte Carlo method in raw gas. Prospect Resource Data Units P90 P50 Mean P10 Un truncated Unrisked Resource BCF 1.3 4.7 6.5 14.4 Commercial Success Truncated Resource BCF 2.6 5.8 7.7 15.6 Un truncated Success Case Flow Rate Mmscf d 0.6 1.7 2.
+
+WELL PURPOSE is the primary intended function at the time of drilling of the well.
+
+Can you extract the WELL PURPOSE from the context?
+
+Explain where you found the information.
+
+-------------------ChatGPT Response-----------------------
+[value: test a seismic amplitude supported play targeting stratigraphically trapped gas in the Callamurra Member]
+
+I found the information about the WELL PURPOSE in the sentence: "The well will also test a seismic amplitude supported play targeting stratigraphically trapped gas in the Callamurra Member in a hose over nose type play." This indicates that the primary intended function of the well at the time of drilling was to test this specific geological feature for gas.
+
+====================Example 3============================
+Suppose you are an expert in geoscience data and information, and advice about Queensland’s mineral and energy resources and resource potential. You can accurately analyse industry reports in this area and extract value for a given query. Output the extracted value in the format [value]. Say [NOT AVAILABLE] if you cannot extract. Consider the following text context.
+
+Context: sure tested per programme. 5.8.9 Power Choke Drill Perform a Power Choke Drill prior to drilling out the shoe track. 5.8.9 Production Casing Production Casing made up and run per program and OEM specification.Minimum 70 standoff achieved from shoe to top of tail cement . Final End of Well Suspension Cap or Tubing Head installed and pressure tested Personnel On Board Company name No. of people Ensign Australia 29 Geoservices 2 M I Australia Pty Ltd 1 Oil Industry Catering Services 3 Roma Transport Services 3 Santos 3 Schlumberger Australia 3 Total Pax 44 Comments General Comments Morning meeting held with OCR RM and third party personnel. Only 1 x extra lease hand on site no extra loader operator on site. RTS have 1 x extra to conduct handover. Ensign rig move package is on location. Onshore Daily Drilling Report Well Name Report No Total Days Days from Spud Report Date Adelie 1 2 2.00 31 May 2018 Well Data Country Australia Day Supv Shane Larsen Hole Size Last Casing Size n a Business Unit
+
+WELL PURPOSE is the primary intended function at the time of drilling of the well.
+
+Can you extract the WELL PURPOSE from the context?
+
+Explain where you found the information.
+
+-------------------ChatGPT Response-----------------------
+[value: NOT AVAILABLE]
+
+The provided context does not contain specific information about the WELL PURPOSE. The text mainly discusses operational details, personnel on board, and general comments, but it does not explicitly state the primary intended function of the well at the time of drilling.
+
+====================Example 4============================
+Suppose you are an expert in geoscience data and information, and advice about Queensland’s mineral and energy resources and resource potential. You can accurately analyse industry reports in this area and extract value for a given query. Output the extracted value in the format [value]. Say [NOT AVAILABLE] if you cannot extract. Consider the following text context.
+
+Context: ATP 1189 SSL ADELIE 1 WELL COMPLETION REPORT. 14.90 3.04 32.14 32.14 32.1 208 2485.00 4.37 107.97 2484.48 2383.3 28.89 13.64 0.00 31.91 31.91 31.9 205 Adelie 1 Vertical Section 208 Deg Azimuth 0 200 400 600 800 1000 1200 1400 1600 1800 2000 2200 2400 2600 Vertical Section m 40 35 30 25 20 15 10 5 0 5 10 TVD m Planned Path Actual Path Adelie 1 Plan View 20 18 16 14 12 10 8 6 4 2 10 8 6 4 2 0 2 0 4 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 2 4 Easting m Northing m Actual Path APPENDIX 12 DRILLING FINAL WELL REPORT Adelie 1 30 May 2018 13 Jun 2018 Field Adelie Final Well Report Santos Ltd Report Compiler Jenny Callus Date of Issue 07 Sep 2018 Section 1 Well Summary Well Objective Adelie 1 will target gas in the structurally trapped Patchawarra sands and the stratigraphic Callamurra channel play with in the Snowball 3D. The well will test a structural anticline at Patchawarra analagous to neighbouring fields such as Epsilon. Country Field Block Well Well Type Operating Company Rig License Australia Adelie ATP 1189 Adelie 1 Exploration Sa"
+
+LEASE NUMBER is the number assigned to authority by regulatory agency.
+
+Can you extract the LEASE NUMBER from the context?
+
+Explain where you found the information.
+
+-------------------ChatGPT Response-----------------------
+[value: ATP 1189]
+
+I found the LEASE NUMBER "ATP 1189" in the context provided. It is mentioned in the section where the well details are listed: "Country Field Block Well Well Type Operating Company Rig License Australia Adelie ATP 1189 Adelie 1 Exploration Sa".
+
+====================Example 5============================
+Suppose you are an expert in geoscience data and information, and advice about Queensland’s mineral and energy resources and resource potential. You can accurately analyse industry reports in this area and extract value for a given query. Output the extracted value in the format [value]. Say [NOT AVAILABLE] if you cannot extract. Consider the following text context.
+
+Context: PL 226 OER ORANA MB 7W WELL COMPLETION REPORT. ts Description Consumed Cost unit Size Units Logs Type Date Run No. Depth Top mKB Depth Bottom mKB Logging Company 27 01 2014 1 10.00 442.24 Schlumberger Wireline Testing AIT 27 01 2014 1 10.00 442.24 Schlumberger Wireline Testing GPIT 27 01 2014 1 10.00 442.24 Schlumberger Wireline Testing PEX 27 01 2014 1 10.00 442.24 Schlumberger Wireline Testing Formations Formation Name Drill Top MD mKB Drill Top TVD mKB Prog Top TVD mKB Undifferentiated Westbourne Fm Springbok Sst Upper Juandah CM Macalister Seam Juandah Sst Lower Juandah CM Tangalooma Sst. Taroom CM Eurombah Fm Hutton Sst Page 2 2 Report Printed 23 07 2014 Daily Drilling Report 3 Report Date 16 01 2014 ORANA MB7 W Rig ATLAS RIG 2 Depth Progress 271.59 m Depth End 419.59 mKB Rig Release Date 5 02 2014 General Well Information State QUEENSLAND Basin SURAT District ORANA Lease PL 226 Well Configuration Type VERTICAL Ground Elevation m 328.02 Original KB RT Elevation m 330.98 Original Spud Date 23 01 2014 AFE Duration Total days Days F
+
+LEASE NUMBER is the number assigned to authority by regulatory agency.
+
+Can you extract the LEASE NUMBER from the context?
+
+Explain where you found the information.
+
+-------------------ChatGPT Response-----------------------
+[value: PL 226]
+
+I found the LEASE NUMBER "PL 226" in the context provided. It is mentioned in the section under "General Well Information" where the lease details are listed: "Lease PL 226".
+
+====================Example 6============================
+Suppose you are an expert in geoscience data and information, and advice about Queensland’s mineral and energy resources and resource potential. You can accurately analyse industry reports in this area and extract value for a given query. Output the extracted value in the format [value]. Say [NOT AVAILABLE] if you cannot extract. Consider the following text context.
+
+Context: PL 215 OER ORANA 122 WELL COMPLETION REPORT. AUSTRALIA PACIFIC LNG PTY LTD ORANA 122 WELL COMPLETION REPORT PL 215 QUEENSLAND Originator Australia Pacific LNG Pty Ltd Jenna Halcro Dirks Technical Assistant ABN 68 001 646 331 Reviewed Level 1 144 Montague Road Yasmin Freschi Drilling Engineer WEST END QLD 4101 Reviewed Ingrid Farr Graduate Operations Geologist July 2014 1 WELL COMPLETION REPORT ORANA 122 WELL CARD General Data Well Details Well Name Orana 122 Conductor Surface Production Well Type Development Hole Field Orana Size N A 12 1 4 8 3 4 Tenure PL 215 Depth from Rotary Table N A 98 mRT 587 mRT Location Drilling Fluid Water based spud mud Water based polymer mud Latitude 26o 54 53.00 S Drill Bits Size Typ
+
+LEASE NAME is the resource authority assigned by the regulatory agency. 
+
+Can you extract the LEASE NAME from the context?
+
+Explain where you found the information.
+
+-------------------ChatGPT Response-----------------------
+[value: Orana]
+
+I found the LEASE NAME "Orana" in the context provided. It is mentioned in the section under "General Data Well Details" where the field details are listed: "Field Orana".
+
+====================Example 7============================
+Suppose you are an expert in geoscience data and information, and advice about Queensland’s mineral and energy resources and resource potential. You can accurately analyse industry reports in this area and extract value for a given query. Output the extracted value in the format [value]. Say [NOT AVAILABLE] if you cannot extract. Consider the following text context.
+
+Context: PL 215 OER ORANA 41 WELL COMPLETION REPORT. Hole Coring Date Interval mGL Size Cut m Recovered m N A Sidewall Coring Date Interval mGL Size Cut m Recovered m N A Mudlogging Date Interval mGL Size Cut m Recovered m N A Cutting Samples Date Interval mGL Size Cut m Recovered m N A WELL TESTS Drill Stem Testing Pressures psia Date Interval mRT Formation CM Gas Flow Rate Fluid Recovery Initial Flow Initial Shut In Final Flow Final Shut In N A Flow Test Results Date Gas Flow Rates mmscfd Water Flow Rates bwpd Pressure psia Depth mRT Initial N A Final N A Modular Formation Dynamics Tester MDT Date Interval mRT Formation Final Pump Rate bbl d Final Shut In Pressure psia N A SURVEYS Well Location Survey Date Longitude Latitude Ground Level mAMSL Easting Northing 5 04 2014 1500 33 28.11 E 260 55 13.62 S 340.27 257 484 E 7 020 035 N Deviation Survey See Appendix 7 Directional Survey 3 WELL COMPLETION REPORT ORANA 41 CURRENT SCHEMATIC FORMATION TOPS SUMMARY Formation tops were picked by Geoscientists from Wireline Logs ROP Curve data. Surface Casing 9 5
+
+SURFACE_LATITUDE is the angular distance from north or south of the equator.
+
+Can you extract the SURFACE_LATITUDE from the context?
+
+Explain where you found the information.
+
+-------------------ChatGPT Response-----------------------
+[value: 26° 55' 13.62" S]
+
+I found the information in the "Well Location Survey" section of the provided context. Specifically, the latitude is listed as 26° 55' 13.62" S. This section includes details about the well's geographical coordinates, including both longitude and latitude.
+
+I found the SURFACE_LATITUDE "-26.92045" in the context provided. It is mentioned in the section under "Well Location Survey" where the latitude details are listed: "Latitude 26° 55' 13.62" S". Converting this to decimal degrees gives -26.92045.
+
+====================Example 8============================
+Suppose you are an expert in geoscience data and information, and advice about Queensland’s mineral and energy resources and resource potential. You can accurately analyse industry reports in this area and extract value for a given query. Output the extracted value in the format [value]. Say [NOT AVAILABLE] if you cannot extract. Consider the following text context.
+
+Context: PL 215 OER ORANA 61 WELL COMPLETION REPORT. gging Date Interval mGL Size Cut m Recovered m N A Cutting Samples Date Interval mGL Size Cut m Recovered m N A WELL TESTS Drill Stem Testing Pressures psia Date Interval mRT Formation CM Gas Flow Rate Fluid Recovery Initial Flow Initial Shut In Final Flow Final Shut In N A Flow Test Results Date Gas Flow Rates mmscfd Water Flow Rates bwpd Pressure psia Depth mRT Initial N A Final N A Modular Formation Dynamics Tester MDT Date Interval mRT Formation Final Pump Rate bbl d Final Shut In Pressure psia N A SURVEYS Well Location Survey Date Longitude Latitude Ground Level mAMSL Easting Northing 8 06 2014 1500 32 33.62 E 260 56 26.34 S 346.31 256 023 E 7 017 766 N Deviation Survey See Appendix 7 Directional Survey 3 WELL COMPLETION REPORT ORANA 61 Current Schematic Formation Tops Summary Formation tops were picked by Geoscientists from Wireline Logs ROP Curve data. Surface Casing 9 5 8 119.25 mRT Surface Hole 12 1 4 to 121 mRT Stage Tool 282.03 mRT External Casing Packer 282.75 mRT Perforation Details Form 
+
+SURFACE_LONGITUDE is the angular distance from east or west of the prime meridian.
+
+Can you extract the SURFACE_LONGITUDE from the context?
+
+Explain where you found the information.
+
+-------------------ChatGPT Response-----------------------
+[value: 150° 32' 33.62" E]
+
+I found the information in the "Well Location Survey" section of the provided context. Specifically, the longitude is listed as 150° 32' 33.62" E. This section includes details about the well's geographical coordinates, including both longitude and latitude.
+
+====================Example 9============================
+Suppose you are an expert in geoscience data and information, and advice about Queensland’s mineral and energy resources and resource potential. You can accurately analyse industry reports in this area and extract value for a given query. Output the extracted value in the format [value]. Say [NOT AVAILABLE] if you cannot extract. Consider the following text context.
+
+Context: PL 215 OER ORANA 53 WELL COMPLETION REPORT. Depth Progress m Depth End 0.00 mKB Rig Release Date 16 02 2014 General Well Information State QUEENSLAND Basin SURAT District ORANA Lease PL 215 Well Configuration Type VERTICAL Ground Elevation m 315.24 Original KB RT Elevation m 319.04 Original Spud Date 13 02 2014 AFE Duration Total days Days From Spud days 0.08 Project ID 160983 Work Order 1218692 AFE Amount 282 771.66 AFE Sup Amount 282 771.66 Daily Cost 42 104.36 Cumulative Cost 42 104.36 Planned Depth TMD mKB Drilling Hours hrs 9.50 Wellbore Original Hole Head Count 22.0 Personnel Total Hours hrs 154.00 Like Kind Category Walloons preperf Daily Operation Summary Operations Morning Report Waiting on Cement. Last 24hr Summary Road Condition Dry Good Weather Clear Temperature C 36 Wind 10kmh hr NE Rig moved 0.5km Orana 54 to Orana 53. Unloaded trailers spotted rig package. Raised mast R up. Hazard hunt muster drill pre spud mtg. Rig acceptance. Drilled 12 1 4 surface hole f 3.8m to 75mRT 24hr Forecast Job Contacts Contact Phone Phone Co
+
+GROUND ELEV is the elevation of the ground at the well or bore site. 
+
+Can you extract the GROUND ELEV from the context?
+
+Explain where you found the information.
+
+-------------------ChatGPT Response-----------------------
+[value: 315.24 m]
+
+I found the GROUND ELEV "315.24 m" in the context provided. It is mentioned in the section under "General Well Information" where the ground elevation details are listed: "Ground Elevation m 315.24".
+
+====================Example 10============================
+Suppose you are an expert in geoscience data and information, and advice about Queensland’s mineral and energy resources and resource potential. You can accurately analyse industry reports in this area and extract value for a given query. Output the extracted value in the format [value]. Say [NOT AVAILABLE] if you cannot extract. Consider the following text context.
+
+Context: PL 215 OER ORANA 50 WELL COMPLETION REPORT. pth Bottom of Shoe mRT N A 122.00 548.21 Elevation Cement Ground Level mAMSL 311.49 Interval Surface Casing 124 mRT to surface Production Casing 209.44 mRT to surface Surface Pumped 34.2bbl of 15.6ppg Portland GP cement lead with 0.25gal 10bbl NF 6 additive. 6.7bbl cement to surface. Cement tagged at 108.90 mRT. Drill Floor mAMSL 315.29 Production Pumped 26.8bbl of 12.8ppg Portland GP cement lead with 1.5 Econolite 1 CaCl additives followed by 17bbl of 15.2ppg Portland GP cement tail with 0.5 CFR 3 0.4 Halad 344 0.5 CaCl. 7.8bbl cement to surface. Total Depth Mud System Chemicals Driller 552 mRT Name Unit Weight Total Logger 551.66 mRT Drispac Regular Plus 10 23kgs 230kgs Drilling Rig s Potassium Acetate 92 25kgs 2300kgs Drilling Rig Savanna Rig 449 AMC PAC L 10 25kgs 250kgs Date Spudded 8 02 2014 Citric Acid 8 25kgs 200kgs Date TD Reached 10 02 2014 Sodium Bicarbonate 4 25kgs 100kgs Date Rig Released 11 02 2014 AMC Biocide 2 25L 50L Well Status on Rig Release Day Aus Det Xtra 1 20L 20L Case
+
+GROUND ELEV is the elevation of the ground at the well or bore site. 
+
+Can you extract the GROUND ELEV from the context?
+
+Explain where you found the information.
+
+-------------------ChatGPT Response-----------------------
+[value: 311.49 m]
+
+I found the GROUND ELEV "311.49 m" in the context provided. It is mentioned in the section where the elevation details are listed: "Ground Level mAMSL 311.49".
+
+====================Example 11============================
+Suppose you are an expert in geoscience data and information, and advice about Queensland’s mineral and energy resources and resource potential. You can accurately analyse industry reports in this area and extract value for a given query. Output the extracted value in the format [value]. Say [NOT AVAILABLE] if you cannot extract. Consider the following text context.
+
+Context: PL 226 OER ORANA MB 7W WELL COMPLETION REPORT. .00 442.24 Schlumberger Wireline Testing GPIT 27 01 2014 1 10.00 442.24 Schlumberger Wireline Testing PEX 27 01 2014 1 10.00 442.24 Schlumberger Wireline Testing Formations Formation Name Drill Top MD mKB Drill Top TVD mKB Prog Top TVD mKB Undifferentiated Westbourne Fm Springbok Sst Upper Juandah CM Macalister Seam Juandah Sst Lower Juandah CM Tangalooma Sst. Taroom CM Eurombah Fm Hutton Sst Page 3 3 Report Printed 23 07 2014 Daily Drilling Report 22 Report Date 4 02 2014 ORANA MB7 W Rig ATLAS RIG 2 Depth Progress 0.00 m Depth End 442.00 mKB Rig Release Date 5 02 2014 General Well Information State QUEENSLAND Basin SURAT District ORANA Lease PL 226 Well Configuration Type VERTICAL Ground Elevation m 328.02 Original KB RT Elevation m 330.98 Original Spud Date 23 01 2014 AFE Duration Total days Days From Spud days 12.85 Project ID 153687 Work Order AFE Amount 636 400.00 AFE Sup Amount 636 400.00 Daily Cost 81 805.10 Cumulative Cost 1 377 266.62 Planned Depth TMD mKB 458.00 Drilling Hours hrs
+
+
+GROUND ELEV is the elevation of the ground at the well or bore site. 
+
+Can you extract the GROUND ELEV from the context?
+
+Explain where you found the information.
+
+-------------------ChatGPT Response-----------------------
+[value: 328.02 m]
+
+I found the GROUND ELEV "328.02 m" in the context provided. It is mentioned in the section under "General Well Information" where the ground elevation details are listed: "Ground Elevation m 328.02".
+
+====================Example 12============================
+Suppose you are an expert in geoscience data and information, and advice about Queensland’s mineral and energy resources and resource potential. You can accurately analyse industry reports in this area and extract value for a given query. Output the extracted value in the format [value]. Say [NOT AVAILABLE] if you cannot extract. Consider the following text context.
+
+Context: ATP 1189 SSL TIGRIS 1 WELL COMPLETION REPORT. 8 1908.50 1.30 77.10 1908.07 1797.4 7.09 13.81 0.00 15.53 15.53 15.5 117 Tigris 1 Vertical Section 118 Deg Azimuth 0 200 400 600 800 1000 1200 1400 1600 1800 2000 Vertical Section m Planned Path Actual Path 20 19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 1 2 3 4 5 TVD m Tigris 1 Plan View 10 9 8 7 6 5 4 3 2 1 0 1 2 3 4 5 6 7 8 9 Actual Path 5 4 3 2 1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 10 Easting m Northing m APPENDIX 12 DRILLING FINAL WELL REPORT Tigris 1 04 Apr 2018 17 Apr 2018 Field Tigris Final Well Report Santos Ltd Report Compiler Atha Nainggolan Date of Issue 16 May 2018 Section 1 Well Summary Well Objective Tigris 1 will target gas in the structurally trapped Patchawarra sands to the North East of the Chiron field mapped on the Snowball 3D. The well will test a four way dip closure analogous to the nearby Chiron and Quasar South fields. Country Field Block Well Well Type Operating Company Rig License Australia Tigris QLD ATP 1189 Tigris 1 Exploration Santos Ltd Ensi
+
+
+OPERATOR is the company or entity representing owners of the well.
+
+Can you extract the OPERATOR from the context?
+
+Explain where you found the information.
+
+-------------------ChatGPT Response-----------------------
+[value: Santos Ltd]
+
+I found the OPERATOR "Santos Ltd" in the context provided. It is mentioned in the section under "Well Summary" where the operating company details are listed: "Operating Company Santos Ltd".
+
+====================Example 13============================
+Suppose you are an expert in geoscience data and information, and advice about Queensland’s mineral and energy resources and resource potential. You can accurately analyse industry reports in this area and extract value for a given query. Output the extracted value in the format [value]. Say [NOT AVAILABLE] if you cannot extract. Consider the following text context.
+
+Context: PL 502 SSL TENNAPERRA 5 WELL COMPLETION REPORT. nnaperra 5 Operating Co Santos Ltd Rig Ensign Rig 970 Well Name Tennaperra 5 Operating Co Santos Ltd Rig Ensign Rig 970 Section 5 Casing Summary Well Name Tennaperra 5 Operating Co Santos Ltd Rig Ensign Rig 970 Section 6 Cement Summary Well Name Tennaperra 5 Operating Co Santos Ltd Rig Ensign Rig 970 Section 7 LOT Summary Well Name Tennaperra 5 Operating Co Santos Ltd Rig Ensign Rig 970 WELL COMPLETION REPORT Tennaperra 5 License PL 502 State Queensland Partners Santos Beach Origin Santos LTD A.B.N 80 007 550 923 Approved by Santos Ltd Date February 2018 CONTENTS General Data 4 Well Data Summary 4 Summary 6 Drilling Data 8 Conductor Hole 8 Surface Hole 8 Production Hole 9 Abandonment Plugs 9 Bit Summary 9 Lost Time Summary 10 Rig Water Supply 10 Geology 12 Reasons for Drilling objectives 12 Geological Risking 12 Lithology Summary 12 Stratigraphy results from drilling 14 Logging and Testing Summary 15 Well Site Geologist 15 Cuttings Samples 15 Cored Intervals 15 Wireline Logging 16 MWD and LWD Su
+
+
+OPERATOR is the company or entity representing owners of the well.
+
+Can you extract the OPERATOR from the context?
+
+Explain where you found the information.
+
+-------------------ChatGPT Response-----------------------
+[value: Santos Ltd]
+
+I found the OPERATOR "Santos Ltd" in the context provided. It is mentioned multiple times in the sections listing the operating company details: "Operating Co Santos Ltd".
+
+====================Example 14============================
+Suppose you are an expert in geoscience data and information, and advice about Queensland’s mineral and energy resources and resource potential. You can accurately analyse industry reports in this area and extract value for a given query. Output the extracted value in the format [value]. Say [NOT AVAILABLE] if you cannot extract. Consider the following text context.
+
+Context: PL 301 SSL ZEUS 11 WELL COMPLETION REPORT. Cl 500mg l Pf Mf 0 0.2. 3 Schlumberger MSO departed location. Onshore Daily Drilling Regulatory Report Well Name Report No. Total Days Days from Spud Report Date Zeus 11 8 7.27 4.71 11 Aug 2017 Well Data Country Australia Day Supv Robert Balfour Hole Size 8.500 in Last Casing Size 9.625 in Business Unit EASTERN AUSTRALIA Night Supv Rob Plant Midnight MD 1 695.00 m Last Casing MD 410.57 m Field License Zeus PL 301 Office Engineer Steven Roberts Midnight TVD 1 694.90 m Last Casing TVD 410.56 m Wellbore Type Appraisal Drilling Contractor Ensign Energy Services 24 Hr Progress 380.00 m Last Casing Weight 36.00 ppf Rig Name Ensign Rig 970 Rig Manager Simon Bryant Last BOP Test 08 Aug 2017 Last Casing Grade K55 RT to GL 7.16 m Next Planned BOP Test 29 Aug 2017 Liner Top MD n a GL Elevation 69.44 m Latitude 28 1 43.600 S FIT EMW 13.73 ppg Liner Top TVD n a Plan TD MD 1 767.00 m Longitude 141 57 41.780 E Liner Shoe MD n a Plan TD TVD 1 767.00 m Weather Forecast Liner Shoe TVD n a Last Rig Move Distance 
+
+CURRENT CLASS the classification of a well or bore based on the lifecycle. 
+
+Can you extract the CURRENT CLASS from the context?
+
+Explain where you found the information.
+
+-------------------ChatGPT Response-----------------------
+[value: NOT AVAILABLE]
+
+The context provided does not contain information about the CURRENT CLASS of the well or bore. The details given focus on well data, drilling progress, and other operational specifics, but do not mention the classification based on the lifecycle.
+
+====================Example 15============================
+Suppose you are an expert in geoscience data and information, and advice about Queensland’s mineral and energy resources and resource potential. You can accurately analyse industry reports in this area and extract value for a given query. Output the extracted value in the format [value]. Say [NOT AVAILABLE] if you cannot extract. Consider the following text context.
+
+Context: ATP 1189 SSL TIGRIS 1 WELL COMPLETION REPORT. License Tigris QLD ATP 1189 Office Engineer Alex Daniels Midnight TVD m Last Casing TVD n a Wellbore Type Exploration Drilling Contractor Ensign Energy Services 24 Hr Progress m Last Casing Weight Rig Name Ensign Rig 950 Rig Manager Ashley Crawford Last BOP Test Last Casing Grade RT to GL 4.30 m Next Planned BOP Test Liner Top MD n a GL Elevation 106.10 m Latitude 28 27 22.250 S FIT LOT EMW Liner Top TVD n a Plan TD MD 1 940.00 m Longitude 141 6 57.530 E Liner Shoe MD n a Plan TD TVD 1 940.00 m Weather Forecast Liner Shoe TVD n a Last Rig Move Distance 220.00 km 36 C. Sunny. No rain forecasted. Days since Last Rig Recordable Injury 148 days Expected Rig Release 16 Apr 2018 Days since Last Rig Recordable Spill 176 days Next Well Marabooka H Rig Move Distance 120.00 km Transport Company Ensign Current Ops 06 00 24 Hours Summary Load out rig package from Wackett 17 spot at Tigris 1 and rig up same. Rigged down 75 Rig moved 70 Rig spotted 35 Rigged up 25 . 24 Hours Planned Ops EHS Summary No EHS inc
+
+CURRENT CLASS the classification of a well or bore based on the lifecycle. 
+
+Can you extract the CURRENT CLASS from the context?
+
+Explain where you found the information.
+
+-------------------ChatGPT Response-----------------------
+[value: NOT AVAILABLE]
+
+The context provided does not contain information about the CURRENT CLASS of the well or bore. The details given focus on well data, drilling progress, and other operational specifics, but do not mention the classification based on the lifecycle.
